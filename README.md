@@ -16,6 +16,7 @@
 
 </p>
 
+
 ## ¿Quién soy?
 Soy desarrollador Frontend con experiencia en desarrollo de interfaces web y administración de bases de datos SQL Server.
 
